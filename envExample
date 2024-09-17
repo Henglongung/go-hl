@@ -1,0 +1,5 @@
+APP_DB_NAME = "go_hl"
+APP_DB_USER = "root"
+APP_DB_PWD = "1234"
+APP_DB_PROTOCOL = "tcp(localhost:3306)"
+    
